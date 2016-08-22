@@ -2,17 +2,17 @@
 
 现在就加入 [**FrontSeat**](http://frontseat.io) 一个专注前端的开源中文社区！
 
-UI设计笔记本涵括了大部分UI设计开发所需的知识点，主要包括5大部分：。
+UI设计笔记本涵括了大部分UI设计开发所需的知识点，主要包括5大部分：**UI设计概述、修炼设计技法、设计规范与流程、提升用户体验、设计审美、品牌设计**。
 
-点击[**这里**](http://chanshuyi.github.io/frontend_notebook/)开始阅读！
+点击[**这里**](https://chanshuyi.github.io/uidesign_notebook/)开始阅读！
 
-UI开发笔记本的 GitHub 地址在[这里](https://github.com/ChanShuYi/FrontEnd_NOTE)。如果你觉得这个项目不错，请点击 Star 一下，您的支持是我最大的动力。
+UI开发笔记本的 GitHub 地址在[这里](https://github.com/ChanShuYi/uidesign_notebook)。如果你觉得这个项目不错，请点击 Star 一下，您的支持是我最大的动力。
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/ChanShuYi/FrontEnd_NOTE" data-style="mega" data-count-href="/ChanShuYi/FrontEnd_NOTE/stargazers" data-count-api="/repos/ChanShuYi/FrontEnd_NOTE#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star ChanShuYi/FrontEnd_NOTE on GitHub">Star</a>
-&nbsp;&nbsp;<a class="github-button" href="https://github.com/ChanShuYi/FrontEnd_NOTE" data-style="mega" data-count-href="/ChanShuYi/FrontEnd_NOTE/watchers" data-count-api="/repos/ChanShuYi/FrontEnd_NOTE#subscribers_count" data-count-aria-label="# watchers on GitHub" aria-label="Watch ChanShuYi/FrontEnd_NOTE on GitHub">Watch</a>
-&nbsp;&nbsp;<a class="github-button" href="https://github.com/ChanShuYi/FrontEnd_NOTE/fork" data-style="mega" data-count-href="/ChanShuYi/FrontEnd_NOTE/network" data-count-api="/repos/ChanShuYi/FrontEnd_NOTE#forks_count" data-count-aria-label="# forks on GitHub" aria-label="Fork ChanShuYi/FrontEnd_NOTE on GitHub">Fork</a>
-&nbsp;&nbsp;<a class="github-button" href="https://github.com/ChanShuYi/FrontEnd_NOTE/archive/master.zip" data-style="mega" aria-label="Download ChanShuYi/FrontEnd_NOTE on GitHub">Download</a>
+<a class="github-button" href="https://github.com/ChanShuYi/uidesign_notebook" data-style="mega" data-count-href="/ChanShuYi/uidesign_notebook/stargazers" data-count-api="/repos/ChanShuYi/uidesign_notebook#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star ChanShuYi/uidesign_notebook on GitHub">Star</a>
+&nbsp;&nbsp;<a class="github-button" href="https://github.com/ChanShuYi/uidesign_notebook" data-style="mega" data-count-href="/ChanShuYi/uidesign_notebook/watchers" data-count-api="/repos/ChanShuYi/uidesign_notebook#subscribers_count" data-count-aria-label="# watchers on GitHub" aria-label="Watch ChanShuYi/uidesign_notebook on GitHub">Watch</a>
+&nbsp;&nbsp;<a class="github-button" href="https://github.com/ChanShuYi/uidesign_notebook/fork" data-style="mega" data-count-href="/ChanShuYi/uidesign_notebook/network" data-count-api="/repos/ChanShuYi/uidesign_notebook#forks_count" data-count-aria-label="# forks on GitHub" aria-label="Fork ChanShuYi/uidesign_notebook on GitHub">Fork</a>
+&nbsp;&nbsp;<a class="github-button" href="https://github.com/ChanShuYi/uidesign_notebook/archive/master.zip" data-style="mega" aria-label="Download ChanShuYi/uidesign_notebook on GitHub">Download</a>
 
 ### 写作进程
 
