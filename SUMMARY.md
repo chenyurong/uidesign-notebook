@@ -14,7 +14,7 @@
 - [修炼设计技法](chapter02/02_00_learn_design_skill.md)
 	- [趣味实战icon设计](chapter02/02_01_00_icon_design.md)
 		- [icon基本规律和基本技法](chapter02/02_01_01_icon_design_basic_skill.md)
-		- [扁平化的演变](chapter02/02_01_02_flattering_icon.md)
+		- [扁平化icon实际演示](chapter02/02_01_02_flattering_icon.md)
 		- [半写实状态icon](chapter02/02_01_03_semiconventional_icon.md)
 	- [从视觉解析一款完整的app设计](chapter02/02_02_00_full_analysis_ui_design_of_an_app.md)
 		- [无线端APP设计演示](chapter02/02_02_01_mobile_app_design_demo.md)
