@@ -1,3 +1,19 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [动效八要素](#%E5%8A%A8%E6%95%88%E5%85%AB%E8%A6%81%E7%B4%A0)
+  - [时间间距](#%E6%97%B6%E9%97%B4%E9%97%B4%E8%B7%9D)
+  - [缓入缓出](#%E7%BC%93%E5%85%A5%E7%BC%93%E5%87%BA)
+  - [预备动作](#%E9%A2%84%E5%A4%87%E5%8A%A8%E4%BD%9C)
+  - [动作跟随](#%E5%8A%A8%E4%BD%9C%E8%B7%9F%E9%9A%8F)
+  - [挤压和拉伸](#%E6%8C%A4%E5%8E%8B%E5%92%8C%E6%8B%89%E4%BC%B8)
+  - [夸张手法](#%E5%A4%B8%E5%BC%A0%E6%89%8B%E6%B3%95)
+  - [二次动作](#%E4%BA%8C%E6%AC%A1%E5%8A%A8%E4%BD%9C)
+  - [连续打帧和对应打帧](#%E8%BF%9E%E7%BB%AD%E6%89%93%E5%B8%A7%E5%92%8C%E5%AF%B9%E5%BA%94%E6%89%93%E5%B8%A7)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 动效八要素
 
 - 时间间距（动画节奏）

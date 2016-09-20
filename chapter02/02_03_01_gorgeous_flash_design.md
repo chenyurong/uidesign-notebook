@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [华丽的动效设计](#%E5%8D%8E%E4%B8%BD%E7%9A%84%E5%8A%A8%E6%95%88%E8%AE%BE%E8%AE%A1)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 华丽的动效设计
 
 **什么是动效？**

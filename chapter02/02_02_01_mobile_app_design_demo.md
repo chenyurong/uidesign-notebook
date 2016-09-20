@@ -1,3 +1,19 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [无线端APP设计演示](#%E6%97%A0%E7%BA%BF%E7%AB%AFapp%E8%AE%BE%E8%AE%A1%E6%BC%94%E7%A4%BA)
+  - [视觉设计师如何看待交互稿？](#%E8%A7%86%E8%A7%89%E8%AE%BE%E8%AE%A1%E5%B8%88%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%BA%A4%E4%BA%92%E7%A8%BF%EF%BC%9F)
+    - [设计目的](#%E8%AE%BE%E8%AE%A1%E7%9B%AE%E7%9A%84)
+    - [页面结构](#%E9%A1%B5%E9%9D%A2%E7%BB%93%E6%9E%84)
+    - [层级展现](#%E5%B1%82%E7%BA%A7%E5%B1%95%E7%8E%B0)
+  - [如何根据交互稿进行设计](#%E5%A6%82%E4%BD%95%E6%A0%B9%E6%8D%AE%E4%BA%A4%E4%BA%92%E7%A8%BF%E8%BF%9B%E8%A1%8C%E8%AE%BE%E8%AE%A1)
+    - [控件规范](#%E6%8E%A7%E4%BB%B6%E8%A7%84%E8%8C%83)
+    - [结构分析](#%E7%BB%93%E6%9E%84%E5%88%86%E6%9E%90)
+  - [操作演示](#%E6%93%8D%E4%BD%9C%E6%BC%94%E7%A4%BA)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 无线端APP设计演示
 
 我们将以**网易云音乐**为例子来讲解无线端APP的设计。

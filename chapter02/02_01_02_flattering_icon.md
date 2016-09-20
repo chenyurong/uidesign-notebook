@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [扁平化icon实际演示](#%E6%89%81%E5%B9%B3%E5%8C%96icon%E5%AE%9E%E9%99%85%E6%BC%94%E7%A4%BA)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 扁平化icon实际演示
 
 首先先剖析ICON的整体结构，可以看到ICON由底座和镜头组成

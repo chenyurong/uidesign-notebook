@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [如何制作动效](#%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E5%8A%A8%E6%95%88)
+  - [兵器选择](#%E5%85%B5%E5%99%A8%E9%80%89%E6%8B%A9)
+  - [制作静帧素材](#%E5%88%B6%E4%BD%9C%E9%9D%99%E5%B8%A7%E7%B4%A0%E6%9D%90)
+  - [精简图层](#%E7%B2%BE%E7%AE%80%E5%9B%BE%E5%B1%82)
+  - [导入PSD素材](#%E5%AF%BC%E5%85%A5psd%E7%B4%A0%E6%9D%90)
+  - [动效制作](#%E5%8A%A8%E6%95%88%E5%88%B6%E4%BD%9C)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 如何制作动效
 
 制作动效一般分为以下几步：兵器选择、制作静帧素材、精简图层、导入PSD文档、动效制作。
