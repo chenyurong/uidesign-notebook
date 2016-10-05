@@ -26,4 +26,8 @@
 
 如果没有设计规范，那么设计出来的页面很可能跟下面的一样。
 
-![](../img/03/03_00_03_back_design.png)![](../img/03/03_00_04_back_design.png)![](../img/03/03_00_05_back_design.png)
+![](../img/03/03_00_03_bad_design.png)
+
+![](../img/03/03_00_04_bad_design.png)
+
+![](../img/03/03_00_05_bad_design.png)
